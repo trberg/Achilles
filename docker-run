@@ -1,6 +1,9 @@
 #!/usr/bin/Rscript
 
 # Load Achilles and httr.
+install.packages("ParallelLogger")
+install.packages("DatabaseConnector")
+
 library(ParallelLogger)
 library(dplyr)
 library(Achilles)
