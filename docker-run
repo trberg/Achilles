@@ -36,7 +36,7 @@ server <- paste(db_conf$hostname, db_conf$path, sep="/")
 if (db_conf$scheme %in% c("sqlserver", "sql+server", "sql%20server")){
     db_conf$scheme <- "sql server"
 }
-print (db_conf)
+
 # Create connection details using DatabaseConnector utility.
 connectionDetails <- createConnectionDetails(
     dbms=db_conf$scheme, user=db_conf$username, password=db_conf$password,

@@ -19,6 +19,7 @@ RUN echo deb http://ppa.launchpad.net/marutter/rrutter/ubuntu trusty main >> /et
       r-cran-dbi \
       r-cran-ffbase \
       r-cran-urltools \
+      r-cran-rodbc \
       libxml2-dev \
       littler \
       openjdk-7-jdk \

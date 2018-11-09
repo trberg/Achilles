@@ -1,0 +1,12 @@
+2018-11-09 12:34:43	[Main thread]	INFO	Achilles	achillesHeel	Beginning single-threaded execution
+2018-11-09 12:34:43	[Main thread]	INFO	Achilles	achillesHeel	Beginning single-threaded execution
+2018-11-09 12:34:43	[Main thread]	INFO	Achilles	achillesHeel	Beginning single-threaded execution
+2018-11-09 12:34:43	[Main thread]	INFO	Achilles	achillesHeel	Beginning single-threaded execution
+2018-11-09 12:34:44	[Main thread]	INFO	Achilles	achillesHeel	Executing Achilles Heel. This could take a while
+2018-11-09 12:34:44	[Main thread]	INFO	Achilles	achillesHeel	Executing Achilles Heel. This could take a while
+2018-11-09 12:34:44	[Main thread]	INFO	Achilles	achillesHeel	Executing Achilles Heel. This could take a while
+2018-11-09 12:34:44	[Main thread]	INFO	Achilles	achillesHeel	Executing Achilles Heel. This could take a while
+2018-11-09 12:34:45	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error: Error executing SQL: com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'results.ACHILLES_results'. An error report has been created at  /Users/admin/Documents/Research/HealthChallenge/Achilles_source/errorReport.txt 
+2018-11-09 12:34:45	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error: Error executing SQL: com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'results.ACHILLES_results'. An error report has been created at  /Users/admin/Documents/Research/HealthChallenge/Achilles_source/errorReport.txt 
+2018-11-09 12:34:45	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error: Error executing SQL: com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'results.ACHILLES_results'. An error report has been created at  /Users/admin/Documents/Research/HealthChallenge/Achilles_source/errorReport.txt 
+2018-11-09 12:34:45	[Main thread]	FATAL	DatabaseConnector	.createErrorReport	Error: Error executing SQL: com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'results.ACHILLES_results'. An error report has been created at  /Users/admin/Documents/Research/HealthChallenge/Achilles_source/errorReport.txt 
