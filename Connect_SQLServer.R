@@ -2,6 +2,11 @@
 ############################################################################
 ####### This script connects your R to your SQL Server database.  ##
 
+if (!require("RJDBC")) install.packages('RJDBC',repos = "http://cran.us.r-project.org")
+if (!require("httr")) install.packages("httr")
+library(httr)
+
+
 # Get passed environment variables.
 env_var_names <- list("ACHILLES_SOURCE", "ACHILLES_DB_URI",
                       "ACHILLES_CDM_SCHEMA", "ACHILLES_VOCAB_SCHEMA",
