@@ -6,7 +6,6 @@ if (!require("RJDBC")) install.packages('RJDBC',repos = "http://cran.us.r-projec
 if (!require("httr")) install.packages('httr',repos = "http://cran.us.r-project.org")
 
 library(httr)
-library(RJDBC)
 
 
 
